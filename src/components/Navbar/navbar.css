@@ -10,6 +10,8 @@
 }
 .navbar .logo{
     width: 150px;
+    color: tomato;
+    text-decoration: none;
 }
 
 .navbar .navbar-menu{
